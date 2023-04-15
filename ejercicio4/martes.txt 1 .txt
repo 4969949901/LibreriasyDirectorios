@@ -1,0 +1,3 @@
+Librerias y Directorio en c++
+Programacion uno jeje
+Parciales proximos
